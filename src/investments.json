@@ -1,0 +1,18 @@
+{
+    "roth-ira" : {
+        "average-annualized-return" : 0.07,
+        "inflation-indexed" : false,
+        "notes" : "Roth IRA can only accept up to $6,000 dollars per year, and depends on your modified adjusted gross income being less than a fixed quantity"
+    },
+    "10-year-t-bonds" : {
+        "average-annualized-return" : -0.0146,
+        "inflation-indexed" : true,
+        "notes" : "Roth IRA can only accept up to $6,000 dollars per year, and depends on your modified adjusted gross income being less than a fixed quantity"
+    },
+    "savings-account" : {
+
+    },
+    "S&P-500" : {
+
+    }
+}
